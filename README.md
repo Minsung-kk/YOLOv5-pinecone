@@ -1,5 +1,5 @@
 # YOLOv5-pinecone
-YOLOv5 Object Detection for Pine Cone Images
+YOLOv5 Object Detection for Pine Cone with Labeled Images
 * original video link: https://www.youtube.com/watch?v=T0DO1C8uYP8 (in Korean)
 * brief instruction using Google Colaborator
   * so we can use free provided GPU (Runtime - Change runtime type - GPU) 
